@@ -10,3 +10,6 @@ def mult(a, b):
 
 def sub(a, b):
     return b - a
+
+def none():
+    pass
